@@ -1,6 +1,6 @@
 ## Copyright @ ST Technologies
 
-# BTC-USDT Arbitrage (MCP Server)
+# BTC-USDT Perps Arbitrage (MCP Server)
 
 # How it works:
 
