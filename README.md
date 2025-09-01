@@ -16,7 +16,7 @@ The server runs as ASGI via Uvicorn and can be dockerized or cloud-deployed for 
 
 Keep:
 
-Your Cerbos policies, Redis connection secrets, and exchange API keys should be managed securely in cloud/devops workflows.
+Cerbos policies, Redis connection secrets, and exchange API keys should be managed securely in cloud/devops workflows.
 
 Usage:
 
